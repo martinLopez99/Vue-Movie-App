@@ -7,7 +7,9 @@
           alt="The Batman Poster" class="featured-img" />
         <div class="detail">
           <h3>The Batman</h3>
-          <p>Description</p>
+          <p>When a sadistic serial killer begins murdering key political figures in Gotham, 
+            Batman is forced to investigate the city's hidden corruption and question his family's 
+            involvement.</p>
         </div>
       </router-link>
     </div>
